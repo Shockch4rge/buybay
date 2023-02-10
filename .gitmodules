@@ -1,0 +1,3 @@
+[submodule "buybay-api-users"]
+	path = buybay-api-users
+	url = https://github.com/Shockch4rge/buybay-api-users
