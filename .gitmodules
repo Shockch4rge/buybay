@@ -1,3 +1,12 @@
 [submodule "buybay-api-users"]
 	path = buybay-api-users
 	url = https://github.com/Shockch4rge/buybay-api-users
+[submodule "buybay-api-orders"]
+	path = buybay-api-orders
+	url = https://github.com/Shockch4rge/buybay-api-orders
+[submodule "buybay-api-products"]
+	path = buybay-api-products
+	url = https://github.com/Shockch4rge/buybay-api-products
+[submodule "buybay-api-product-reviews"]
+	path = buybay-api-product-reviews
+	url = https://github.com/Shockch4rge/buybay-api-product-reviews
