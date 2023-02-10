@@ -10,3 +10,6 @@
 [submodule "buybay-api-product-reviews"]
 	path = buybay-api-product-reviews
 	url = https://github.com/Shockch4rge/buybay-api-product-reviews
+[submodule "buybay-client"]
+	path = buybay-client
+	url = https://github.com/Shockch4rge/buybay-client
